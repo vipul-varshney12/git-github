@@ -4,4 +4,3 @@ function heelo(){
     console.log("hi everyone");
 }
 const sam=10;
-const  warner="david"
